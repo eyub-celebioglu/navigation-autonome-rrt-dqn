@@ -157,7 +157,7 @@ python src/generer_graphes.py
 
 - **Eyub Celebioglu** — [@eyub-celebioglu](https://github.com/eyub-celebioglu)
 - **Rahma Ouanennas** 
-- **Yoann Morau** 
+- **Yoann Morau** — [@yoann-morau](https://github.com/Mooglih)
 
 Projet encadré par **Olivier Buffet** dans le cadre de l'UE *Initiation à la recherche* du Master Informatique de l'Université de Lorraine. Merci à lui pour son accompagnement et ses conseils.
 

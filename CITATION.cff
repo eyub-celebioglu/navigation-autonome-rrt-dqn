@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce travail, merci de le citer comme suit."
+title: "Navigation autonome en environnement incertain : planification RRT et apprentissage par renforcement profond"
+type: software
+authors:
+  - given-names: Eyub
+    family-names: Celebioglu
+    affiliation: "Université de Lorraine"
+  - given-names: Rahma
+    family-names: Ouanennas
+    affiliation: "Université de Lorraine"
+  - given-names: Yoann
+    family-names: Morau
+    affiliation: "Université de Lorraine"
+date-released: 2026-05-16
+license: MIT
+keywords:
+  - path planning
+  - RRT
+  - RRT*
+  - reinforcement learning
+  - deep Q-learning
+  - robotics

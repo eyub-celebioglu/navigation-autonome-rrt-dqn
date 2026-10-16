@@ -11,7 +11,7 @@
 [![Pygame](https://img.shields.io/badge/Pygame-simulation-2E8B57)](https://www.pygame.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[📄 Lire le rapport (PDF)](docs/rapport_navigation_autonome.pdf) · [🇬🇧 English summary](#-english-summary)
+[Lire le rapport (PDF)](docs/rapport_navigation_autonome.pdf) · [English summary](#-english-summary)
 
 <img src="docs/images/dqn_suivi_trajectoire.png" width="560" alt="Robot DQN suivant un chemin RRT">
 
@@ -61,7 +61,7 @@ Apprendre à naviguer « from scratch » coûte très cher en exploration. Notre
 | **RRT\*** | croît linéairement (~7 s à 6000 it.) | le plus faible (optimalité asymptotique) | ~35 |
 | **RRTSC** *(notre variante)* | stable (~1,5 s) | proche du RRT\* | **~15 (−70 % vs RRT)** |
 
-➡️ **RRTSC offre le meilleur compromis** : quasi la rapidité du RRT, un coût proche du RRT\*, et des chemins beaucoup plus épurés, donc des waypoints plus clairs pour guider l'apprentissage.
+**RRTSC offre le meilleur compromis** : quasi la rapidité du RRT, un coût proche du RRT\*, et des chemins beaucoup plus épurés, donc des waypoints plus clairs pour guider l'apprentissage.
 
 ### Apprentissage : Double DQN guidé par RRT
 
@@ -171,7 +171,7 @@ Projet encadré par **Olivier Buffet** dans le cadre de l'UE *Initiation à la r
 
 ---
 
-## 🇬🇧 English summary
+## English summary
 
 This project investigates **autonomous navigation of a mobile robot in an uncertain 2D environment** by combining **path planning** and **deep reinforcement learning**.
 
